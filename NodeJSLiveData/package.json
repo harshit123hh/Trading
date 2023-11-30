@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tradingview-api-adapter": "^1.2.2",
+    "tradingview-ws": "^0.0.3"
+  }
+}
